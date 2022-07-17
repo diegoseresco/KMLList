@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Google Campus</name>
+    <Style id="poly-0000FF-2000-125-nodesc-normal">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7dff0000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-0000FF-2000-125-nodesc-highlight">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7dff0000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-0000FF-2000-125-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0000FF-2000-125-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0000FF-2000-125-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-A1C2FA-3701-140-nodesc-normal">
+      <LineStyle>
+        <color>fffac2a1</color>
+        <width>3.701</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8cfac2a1</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-A1C2FA-3701-140-nodesc-highlight">
+      <LineStyle>
+        <color>fffac2a1</color>
+        <width>5.5515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8cfac2a1</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-A1C2FA-3701-140-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-A1C2FA-3701-140-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-A1C2FA-3701-140-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FBC02D-2000-125-normal">
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7d2dc0fb</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FBC02D-2000-125-highlight">
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7d2dc0fb</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FBC02D-2000-125">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FBC02D-2000-125-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FBC02D-2000-125-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FF0000-2000-125-nodesc-normal">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7d0000ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-FF0000-2000-125-nodesc-highlight">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7d0000ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-FF0000-2000-125-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FF0000-2000-125-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FF0000-2000-125-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Zona orange</name>
+      <description><![CDATA[<img src="https://doc-14-0c-mymaps.googleusercontent.com/untrusted/hostedimage/h61ajcfpgnv1jrk9geof984ruk/js3760mjknv7v7kphsnlihk5os/1658070713000/R0M8caw_JgXeKRSy1di0svTZ7tCb4nAF/12276074974364556337/5AFzc1vaXq9XBh46RA-2OlEdRWHpC8yyoDsKqzbwRc-pJ_NN44yG1mLwKhHYrhL1kb5J0i9FZGyzPfp7oPYkrh6Tnlci2At9qR87GUG1XpiCLXAKwoKalSWI1R2ApLN3jcN4kAv1pt4JJ2WpjFnatSYC6UN8f_Wt0ON3LuDkIDhph0b3C9bMZyb0ZjAd-FJ2yux1I_g?session=0&fife" height="200" width="auto" /><br><br>Holaaa]]></description>
+      <styleUrl>#poly-FBC02D-2000-125</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-0c-mymaps.googleusercontent.com/untrusted/hostedimage/h61ajcfpgnv1jrk9geof984ruk/js3760mjknv7v7kphsnlihk5os/1658070713000/R0M8caw_JgXeKRSy1di0svTZ7tCb4nAF/12276074974364556337/5AFzc1vaXq9XBh46RA-2OlEdRWHpC8yyoDsKqzbwRc-pJ_NN44yG1mLwKhHYrhL1kb5J0i9FZGyzPfp7oPYkrh6Tnlci2At9qR87GUG1XpiCLXAKwoKalSWI1R2ApLN3jcN4kAv1pt4JJ2WpjFnatSYC6UN8f_Wt0ON3LuDkIDhph0b3C9bMZyb0ZjAd-FJ2yux1I_g?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -77.054779, -12.090146, 0
+              -77.050766, -12.088037, 0
+              -77.053126, -12.092821, 0
+              -77.055819, -12.091048, 0
+              -77.053351, -12.089674, 0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
